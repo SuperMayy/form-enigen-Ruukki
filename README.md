@@ -1,2 +1,2 @@
 # form-enigen-Ruukki
-HTML CSS vanilla JavaScript form for Ruuki website
+HTML and vanilla JavaScript form for Ruuki website
